@@ -1,2 +1,3 @@
 # hello-world
-Practising
+Practising to use GitHub
+That logo up there is pretty cute.
